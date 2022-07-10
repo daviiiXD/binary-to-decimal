@@ -1,6 +1,6 @@
 # Tradutor de codigo binário 
 
-link: binary-to-decimal-converter-livid.vercel.app
+link: <a href="binary-to-decimal-converter-livid.vercel.app">binary-to-decimal-converter-livid.vercel.app</a>
 
 Um app simples para converter código binario em decimal!
 
