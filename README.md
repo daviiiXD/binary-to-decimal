@@ -4,4 +4,4 @@ link: http://binary-to-decimal-converter-livid.vercel.app
 
 Um app simples para converter código binario em decimal!
 
-<img src="gif.gif">
+<img src="gif.gif" width="500px">
